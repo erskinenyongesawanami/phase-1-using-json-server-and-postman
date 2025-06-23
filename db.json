@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": "2",
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "id": "c2ee",
+      "title": "Fourth Article",
+      "content": "This was added via fetch!"
+    },
+    {
+      "id": "912c",
+      "title": "Fourth Article",
+      "content": "This was added via fetch!"
+    },
+    {
+      "id": "743b",
+      "title": "Fourth Article",
+      "content": "This was added via fetch!"
+    },
+    {
+      "id": "8771",
+      "title": "Fourth Article",
+      "content": "This was added via fetch!"
+    }
+  ]
+}
